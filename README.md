@@ -1,4 +1,4 @@
-# Open Hospital - Core
+# Open Hospital - Core e
 [![Java CI](https://github.com/informatici/openhospital-core/workflows/Java%20CI%20with%20Maven/badge.svg)](https://github.com/informatici/openhospital-core/actions?query=workflow%3A%22Java+CI+with+Maven%22)
 
 This is the Core component of [Open Hospital][openhospital]: it contains the business logic and the data abstraction layer.  
